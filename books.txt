@@ -6,7 +6,7 @@
 6|Harry Potter and the Philosopher's Stone|J. K. Rowling|0|-1
 7|Wings of Fire|A. P. J. Abdul Kalam|0|-1
 8|Rich Dad Poor Dad|Robert T. Kiyosaki|0|-1
-9|The Psychology of Money|Morgan Housel|1|1
+9|The Psychology of Money|Morgan Housel|0|-1
 10|Ikigai|Hector Garcia and Francesc Miralles|0|-1
 11|Introduction to Algorithms|Thomas H. Cormen|0|-1
 12|The Pragmatic Programmer|Andrew Hunt and David Thomas|0|-1
